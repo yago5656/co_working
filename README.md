@@ -3,16 +3,16 @@
 
 ### GRUPO
 
-- [:heavy_check_mark:] @Yuri5Dev
-- [:heavy_check_mark:] @Giovanna_dev
+[:heavy_check_mark:] @Yuri5Dev
+[:heavy_check_mark:] @Giovanna_dev
 
 ### TODO
 
-- [:heavy_check_mark:] Por enquanto nada.
+[:heavy_check_mark:] Por enquanto nada.
 
-## PROGRESSO
+### PROGRESSO
 
-- [:heavy_check_mark:] Design de um projeto simples.
+[:heavy_check_mark:] Design de um projeto simples.
 
 - [ ] Gerenciar tasks.
 
@@ -20,7 +20,7 @@
 
 - [ ] Comemorar !!! (Em progresso).
 
-# FEITO
+### FEITO
 
 <div>
 <h1>Pra descontrair</h1>
