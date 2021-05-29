@@ -1,18 +1,23 @@
 ## Teste de workflow
 
+<div>
+<h1>Mão no codigo</h1>
+<br>
+<img src="https://media.giphy.com/media/Fe1r1GFDLo0UyeZk8Q/giphy.gif">
+</div>
 
 ### GRUPO
 
-[:heavy_check_mark:] @Yuri5Dev
-[:heavy_check_mark:] @Giovanna_dev
+- [x] @Yuri5Dev
+- [x] @Giovanna_dev
 
 ### TODO
 
-[:heavy_check_mark:] Por enquanto nada.
+- [x] Por enquanto nada.
 
 ### PROGRESSO
 
-[:heavy_check_mark:] Design de um projeto simples.
+- [x] Design de um projeto simples.
 
 - [ ] Gerenciar tasks.
 
@@ -22,8 +27,3 @@
 
 ### FEITO
 
-<div>
-<h1>Pra descontrair</h1>
-<br>
-<img src="https://media.giphy.com/media/Fe1r1GFDLo0UyeZk8Q/giphy.gif">
-</div>
