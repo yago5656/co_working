@@ -9,7 +9,7 @@
 ### GRUPO
 
 - [x] @Yuri5Dev
-- [x] @Giovanna_dev
+- [x] @Yago_Dev
 
 ### TODO
 
